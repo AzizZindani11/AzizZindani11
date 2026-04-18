@@ -1,4 +1,6 @@
-## Hi there 👋
+## My name I Aziz Zindani 
+
+![Aziz Zindani](img/github%20header%201.png)
 
 <!--
 **AzizZindani11/AzizZindani11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
